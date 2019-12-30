@@ -6,11 +6,11 @@ header,
   overflow-wrap: break-word;
 }
 body {
-  background-color: #eee;
-  color: #3c4858;
+  background-color: #D8E6E7;
+  color: #6E7783;
 }
 body a {
-  color: #3c4858;
+  color: #9DC3C1;
 }
 body a:hover {
   color: #1abc9c;
@@ -84,10 +84,10 @@ body a:hover {
   color: white;
 }
 .top-nav-collapse {
-  background-color: #2f4154;
+  background-color: #77AAAD;
 }
 .navbar-col-show {
-  background-color: #2f4154;
+  background-color: #77AAAD;
 }
 @media (max-width: 768px) {
   .navbar {
@@ -250,7 +250,7 @@ body a:hover {
 .wechat-qrcode {
   width: 200px;
   height: 300px;
-  background: url("") no-repeat;
+  background: url("/img/weixin.jpg") no-repeat;
   background-size: 100%;
   position: absolute;
   right: -100px;
@@ -487,7 +487,7 @@ h6::before {
   font-size: 15px;
 }
 .tocbot-link {
-  color: #3c4858;
+  color: #6E7783;
 }
 .tocbot-active-link {
   font-weight: 600;
